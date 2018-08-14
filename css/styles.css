@@ -1,7 +1,3 @@
-#work-responses {
-  display: none;
-}
-
-#fun-responses {
+#fun-responses, #work-responses, #fun-survey {
   display: none;
 }
